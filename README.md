@@ -9,6 +9,7 @@ I'm happiest when I'm creating, learning, exploring and thinking about how to ma
 
 ### Tech Stack
 React | Angular | Ionic
+
 Creating Web Apps | PWA | Desktop App | Android Apps | IOS Apps
 
 Here are some ideas to get you started:

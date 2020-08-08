@@ -32,10 +32,15 @@ Here are some ideas to get you started:
 <!-- display the social media buttons in your README -->
 ## Know More about Me
 <a href="https://twitter.com/anshcasm" target="_blank">
-  <img src="https://github.com/anshcena/TheKinng96/blob/master/pngwing.com.png" width="100px"/>
+  <img src="https://github.com/anshcena/anshcena/blob/master/twitter.png" width="50px"/>
 </a>
 <a href="https://www.linkedin.com/in/ansh-varun-147125107/" target="_blank">
-  <img src="https://github.com/anshcena/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
+  <img src="https://github.com/anshcena/anshcena/blob/master/linkedin.png" width="50px"/>
 </a>
-
+<a href="https://www.facebook.com/anshcena" target="_blank">
+  <img src="https://github.com/anshcena/anshcena/blob/master/facebook.png" width="50px"/>
+</a>
+<a href="https://anshvarun.tech/" target="_blank">
+  <img src="https://github.com/anshcena/anshcena/blob/master/www.png" width="50px"/>
+</a>
 

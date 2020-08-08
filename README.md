@@ -14,17 +14,15 @@ React | Angular | Ionic
 Creating Web Apps | PWA | Desktop App | Android Apps | IOS Apps
 <!--
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about : 
-    Solutions to Problem statements-->
-       <!--
+    Solutions to Problem statements 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 - 📫 How to reach me:
     email : anshcena.1996@gmail.com | LinkedIn : https://www.linkedin.com/in/ansh-varun-147125107/ | Web : https://anshvarun.tech/
  

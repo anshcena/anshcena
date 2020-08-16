@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 - 📫 How to reach me:
-    email : anshcena.1996@gmail.com
+   Feel free to mail me at: anshcena.1996@gmail.com
  
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->

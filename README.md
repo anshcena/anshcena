@@ -4,6 +4,8 @@ Passion about problem solving is what got me into code, being able to come up wi
 I like to build things!
 I'm happiest when I'm creating, learning, exploring and thinking about how to make things better.
 
+I try helping ventures transforming their business to better performance, easy to operate, provide security and automate things.
+
 [![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=anshcena&show_icons=true&theme=dark)](https://github.com/anshcena/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshcena&layout=compact&show_icons=true&theme=dark)](https://github.com/anshcena/github-readme-stats)

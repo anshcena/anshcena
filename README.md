@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## 100DaysOfCode - Challenge [![Challenge](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://www.100daysofcode.com/)
+### 100DaysOfCode - Challenge [![Challenge](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://www.100daysofcode.com/)
 
 - Checkout my [#100DaysOfCode Challenge](https://github.com/anshcena/100DaysOfCode-Challenge)
 

@@ -25,20 +25,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### 100DaysOfCode - Challenge
+### 100DaysOfCode - Challenge [![Active | 100DaysOfCode](https://img.shields.io/static/v1?label=Active&message=100DaysOfCode&color=red)](https://twitter.com/anshcasm)
 
 - Checkout my [#100DaysOfCode Challenge](https://github.com/anshcena/100DaysOfCode-Challenge)
 - [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
-
-- 📫 How to reach me:
-   Feel free to mail me at: anshcena.1996@gmail.com
    
    
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README -->
 ## Know More about Me
+
+- Feel free to mail me at: anshcena.1996@gmail.com
+ 
 <a href="https://twitter.com/anshcasm" target="_blank">
   <img src="https://github.com/anshcena/anshcena/blob/master/twitter.png" width="50px"/>
 </a>

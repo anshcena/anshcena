@@ -41,5 +41,5 @@ I try helping ventures transforming their business to better performance, easy t
 <a href="https://anshvarun.tech/" target="_blank">
   <img src="https://github.com/anshcena/anshcena/blob/master/www.png" width="50px"/>
 </a>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a812f657-b340-48da-927d-17247fee88fe/deploy-status)](https://app.netlify.com/sites/anshvarun/deploys)
+
 

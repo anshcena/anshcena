@@ -1,6 +1,8 @@
 ![Hits](https://komarev.com/ghpvc/?username=anshcena&color=green)
 <h1 align="center">Hi 👋, I am Ansh Varun</h1>
+
 ## About Me
+
 Passion about problem solving is what got me into code, being able to come up with creative solutions is what makes me stay.
 I like to build things!
 I'm happiest when I'm creating, learning, exploring and thinking about how to make things better.

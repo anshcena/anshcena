@@ -35,9 +35,9 @@ I try helping ventures transforming their business to better performance, easy t
 ## Know More about Me
 
 - Feel free to mail me at: anshcena.1996@gmail.com
- <div align="center>
+
 <a href="https://twitter.com/anshcasm" target="_blank">
-  <img src="https://github.com/anshcena/anshcena/blob/master/twitter.png" width="50px"/>
+  <img src="https://github.com/anshcena/anshcena/blob/master/twitter.png" width="50px" />
 </a>
 <a href="https://www.linkedin.com/in/ansh-varun-147125107/" target="_blank">
   <img src="https://github.com/anshcena/anshcena/blob/master/linkedin.png" width="50px"/>
@@ -48,5 +48,5 @@ I try helping ventures transforming their business to better performance, easy t
 <a href="https://anshvarun.tech/" target="_blank">
   <img src="https://github.com/anshcena/anshcena/blob/master/www.png" width="50px"/>
 </a>
-   <div>
+ 
 

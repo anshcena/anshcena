@@ -27,7 +27,9 @@ I try helping ventures transforming their business to better performance, easy t
 ### 100DaysOfCode - Challenge [![Active | 100DaysOfCode](https://img.shields.io/static/v1?label=Active&message=100DaysOfCode&color=red)](https://twitter.com/anshcasm)
 
 - Checkout my [#100DaysOfCode Challenge](https://github.com/anshcena/100DaysOfCode-Challenge)
-- [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+
+   [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+
    
    
 

@@ -12,7 +12,7 @@ I'm happiest when I'm creating, learning, exploring and thinking about how to ma
 I try helping ventures transforming their business to better performance, easy to operate, provide security and automate things.
 <h4>Click here to check my Github Stats</h4>
 <details>
-   <summary></summary>
+   <summary>Here</summary>
 <h3 align="center">Github Trophy</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshcena&theme=onedark)](https://github.com/anshcena)

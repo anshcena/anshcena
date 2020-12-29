@@ -30,7 +30,7 @@ I try helping ventures transforming their business to better performance, easy t
 **I am Creating Web Apps | PWA | Desktop App | MultiPlatform APPs (Android-iOS)**
 
 
-### 100DaysOfCode - Challenge [![Active | 100DaysOfCode](https://img.shields.io/static/v1?label=Active&message=100DaysOfCode&color=red)](https://twitter.com/anshcasm)
+### 100DaysOfCode - Challenge [![Completed | 100DaysOfCode](https://img.shields.io/static/v1?label=Active&message=100DaysOfCode&color=red)](https://twitter.com/anshcasm)
 
 - Checkout my [#100DaysOfCode Challenge](https://github.com/anshcena/100DaysOfCode-Challenge)
 

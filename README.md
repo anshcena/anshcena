@@ -53,7 +53,7 @@ I try helping ventures transforming their business to better performance, easy t
 <a href="https://www.facebook.com/anshcena" target="_blank">
   <img src="https://github.com/anshcena/anshcena/blob/master/facebook.png" width="50px"/>
 </a>
-<a href="https://anshvarun.tech/" target="_blank">
+<a href="https://anshvarun.com/" target="_blank">
   <img src="https://github.com/anshcena/anshcena/blob/master/www.png" width="50px"/>
 </a>
  

@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I am Ansh Varun</h1>
 <a align="right" href="https://app.daily.dev/anshcena"><img src="https://api.daily.dev/devcards/9fba7d746e00432281cba6407fe5f0aa.png?r=lk5" width="400" alt="ANSH VARUN's Dev Card"/></a>
+
+
 ### About Me
 
 Passion about problem solving is what got me into code, being able to come up with creative solutions is what makes me stay.

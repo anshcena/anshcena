@@ -1,6 +1,8 @@
 ![Hits](https://komarev.com/ghpvc/?username=anshcena&color=green)
-   <img align="right" src="https://github.com/anshcena/portfolio/blob/master/public/assets/img/img2.svg" width="300"/>
+<div style="display:flex;justify-content:space-between;align-items: center;">
 <h1 align="center">Hi 👋, I am Ansh Varun</h1>
+<a align="right" href="https://app.daily.dev/anshcena"><img src="https://api.daily.dev/devcards/9fba7d746e00432281cba6407fe5f0aa.png?r=lk5" width="400" alt="ANSH VARUN's Dev Card"/></a>
+</div>
 
 
 ### About Me

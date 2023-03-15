@@ -1,7 +1,7 @@
 ![Hits](https://komarev.com/ghpvc/?username=anshcena&color=green)
 
 <h1 align="center">Hi 👋, I am Ansh Varun</h1>
-<a href="https://app.daily.dev/anshcena"><img src="https://api.daily.dev/devcards/9fba7d746e00432281cba6407fe5f0aa.png?r=lk5" width="400" alt="ANSH VARUN's Dev Card"/></a>
+<a href="https://app.daily.dev/anshcena"><img src="https://api.daily.dev/devcards/9fba7d746e00432281cba6407fe5f0aa.png?r=yru" width="400" alt="ANSH VARUN's Dev Card"/></a>
 
 
 ### About Me

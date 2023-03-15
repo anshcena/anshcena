@@ -43,7 +43,7 @@ I try helping ventures transforming their business to better performance, easy t
 
 ## Know More about Me
 
-- Feel free to mail me at: ansh.varun@preflet.com
+- Feel free to mail me at: <a href="mailto:contact.anshvarun@gmail.com">contact.anshvarun@gmail.com</a>
 
 <a href="https://twitter.com/anshcasm" target="_blank">
   <img src="https://github.com/anshcena/anshcena/blob/master/twitter.png" width="50px" />
